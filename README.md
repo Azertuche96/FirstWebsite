@@ -1,2 +1,2 @@
-# FirstWebsite
-Project for Web Design 1
+# firstWebsite
+project for web design 1
